@@ -1,0 +1,25 @@
+.modern_white_h2 {font-style:verdana;}
+.board-table {border:0px;}
+.board-table > thead > tr > th {font-size:11px; font-style:verdana; border:0px; font-weight:bold;}
+.board-table > tbody > tr {border:0px}
+.board-table > tbody > tr:last-child {border:0px;}
+.board-table > tbody > tr > td:last-child {padding:10px 0px; border-bottom:1px solid #e0e0e0 !important; border-right:0px !important;}
+.board-table > tbody > tr > td {border:0px; border-bottom:1px solid #e0e0e0; vertical-align:middle;}
+.reply_table {border:1px solid #e0e0e0; border-radius:10px; border-collapse:separate !important; height:100px;}
+.reply_table > tbody > tr {border:0px !important;}
+.reply_table > tbody > tr > td {border:0px !important; vertical-align:middle; padding:0px 10px;}
+.vote-star {cursor:pointer; cursor:hand;}
+.vote-star > img {width:20px; height:auto; cursor:pointer; cursor:hand;}
+.vote_display > img {width:20px; height:auto;}
+.board-content-title-area {list-style:none; margin:0; padding:0;}
+.board-content-title-area > li {float:left;}
+.board-content-title-area > .thumb {width:50px; height:50px; overflow:hidden; position:relative; top:0px; margin:5px 0px;}
+.board-content-title-area > .title {position:relative; top:17px; left:10px;}
+.board-content-reply {margin-top:20px;}
+
+#board-pagination > ul {list-style:none; margin:0; padding:0;}
+#board-pagination > ul > li {float:left; border:1px solid #e0e0e0; font-size:11px; width:20px; height:16px; text-align:center; cursor:pointer; cursor:hand; margin:0px 2px;}
+#board_write_form table {border:1px solid #e0e0e0; font-size:12px;}
+#board_write_form table th, td {padding:10px 20px;}
+#board_write_form table td {border:1px solid #e0e0e0;}
+.mce-edit-area {background:#e0e0e0;}
